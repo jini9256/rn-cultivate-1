@@ -4,7 +4,7 @@
 
 - **프로젝트명**
     
-    Cultivage
+    Cultivate
     
 - **목적**
     
